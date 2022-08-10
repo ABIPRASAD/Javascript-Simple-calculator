@@ -3,6 +3,9 @@
     margin: 0px;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(23, 23, 23);
+}
 .cal{
     width:392px;
     height:600px;
